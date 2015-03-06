@@ -67,3 +67,6 @@ Benchmarks, terms, etc.
 Windows Server 2012 R2: https://benchmarks.cisecurity.org/tools2/windows/CIS_Microsoft_Windows_Server_2012_R2_Benchmark_v1.0.0.pdf
 Windows Server 2012: https://benchmarks.cisecurity.org/tools2/windows/CIS_Microsoft_Windows_Server_2012_Benchmark_v1.0.0.pdf
 
+PORTS: http://www.sbsfaq.com/?p=3730
+Windows Guide*: https://technet.microsoft.com/en-us/library/dn383644.aspx
+  *additional information
